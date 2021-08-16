@@ -8,9 +8,9 @@ let browserPromise = puppy.launch({
     args: ["--start-maximized"]
 });
 
-const id = "sender's id";
-const pass = "password";
-const id1 = "receiver's id";
+const id = "hakeyih689@gmail.com";
+const pass = "letitbe@#";
+const id1 = "singhjohn7860@gmail.com";
 let tab;
 browserPromise.then(function(browser){
     let pagesPromise = browser.pages();
